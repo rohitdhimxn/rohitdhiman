@@ -19,6 +19,7 @@
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
+
 }
 
 .header_area .main-menu .navbar-nav .active a{
